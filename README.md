@@ -8,7 +8,7 @@ A bash script that takes a random selection of images and turns it into a video 
 
 ### How to install
 1) Clone the repo<br>
-`$ git clone https://github.com/7Games/image-shuffle && cd image-shuffle`
+`$ git clone https://github.com/7Games/imageshuffle.sh && cd image-shuffle`
 
 
 2) Run the install command<br>
