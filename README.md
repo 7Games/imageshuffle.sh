@@ -4,7 +4,6 @@ A bash script that takes a random selection of images and turns it into a video 
 
 ---------
 ### Dependencies
-- bash
 - ffmpeg
 
 ### How to install
