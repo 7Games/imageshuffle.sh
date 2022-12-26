@@ -22,11 +22,11 @@ Takes images and turns them into a video slideshow.
 
 Syntax: imageshuffle.sh [ARGS]
 options:
-i   Input directory.                (Default Value: ./)
-o   Output file.               		(Default Value: ./output.mp4)
-a   Amount of images in video. 		(Default Value: 10)
-t   Time between each image in seconds.	(Default Value: 5)
-h   Prints this help screen.
+  -i   Input directory.                     (Default Value: ./)
+  -o   Output file.                         (Default Value: ./output.mp4)
+  -a   Amount of images in video.           (Default Value: 10)
+  -t   Time between each image in seconds.  (Default Value: 5)
+  -h   Prints this help screen.
 ```
 ---------
 
