@@ -1,41 +1,11 @@
-## imageshuffle.sh
+# Give Up GitHub
 
-A POSIX shell script that takes a random selection of images and turns it into a video slideshow.
+This project has given up GitHub. ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
 
----------
-### Dependencies
-- POSIX shell
-- sed
-- shuf
-- ffmpeg
+You can now find this project at [Codeberg](https://codeberg.org/benjaminblack/imageshuffle.sh) instead.
 
-### How to install
-1) Clone the repo<br>
-`$ git clone https://github.com/7Games/imageshuffle.sh && cd imageshuffle.sh`
+Any use of this project's code by GitHub Copilot, past or present, is done without our permission.  We do not consent to GitHub's use of this project's code in Copilot.
 
-2) Move it to anywhere you like, such as your ```~/.local/bin``` directory.
+Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
 
-3) Run the command
-```
-$ imageshuffle.sh -h
-Takes images and turns them into a video slideshow.
-
-Syntax: imageshuffle.sh [ARGS]
-options:
-  -i   Input directory.                     (Default Value: ./)
-  -o   Output file.                         (Default Value: ./output.mp4)
-  -a   Amount of images in video.           (Default Value: 10)
-  -t   Time between each image in seconds.  (Default Value: 5)
-  -h   Prints this help screen.
-```
----------
-
-### Usage
-`$ imageshuffle.sh -i "$HOME/Pictures" -a 30 -t 5 -o ./output.mp4`
-
-The process may take a while depending on how many image you choose and the duration of each image is.
-
----------
-
-Made by [7Games](https://sevengames.xyz).<br>
-[LICENSE](https://github.com/7Games/image-shuffle/blob/main/LICENSE)
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
